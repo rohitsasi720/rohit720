@@ -1,0 +1,150 @@
+{
+  "product": [
+    {
+      "id": 8293637062966,
+      "title": "The Collection Snowboard: Liquid",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+      "price": 749.95,
+      "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+      "onSale": false,
+      "variant_type": "Types 1",
+      "totalVariants": 3,
+      "variants": [
+        {
+          "id": 45606794690870,
+          "title": "1st product Variant 1",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+          "price": 8849.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+          "onSale": false
+        },
+        {
+          "id": 45606794723638,
+          "title": "1st product Variant 2",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+          "price": 73449.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": false
+        },
+        {
+          "id": 45606794756406,
+          "title": "1st product Variant 3",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+          "price": 73449.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": false
+        }
+      ]
+    },
+    {
+      "id": 8293637259574,
+      "title": "The Hidden Snowboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+      "price": 19.99,
+      "url": "https://rohit720.myshopify.com/products/the-hidden-snowboard",
+      "onSale": false,
+      "variant_type": "Types 2",
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": 45069014237494
+        }
+      ]
+    },
+    {
+      "id": 8293637357878,
+      "title": "The Collection Snowboard: Liquid",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+      "price": 749.95,
+      "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+      "onSale": false,
+      "variant_type": "Types 3",
+      "totalVariants": 5,
+      "variants": [
+        {
+          "id": 8293637357894,
+          "title": "4th product Variant 1",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+          "price": 8849.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+          "onSale": false
+        },
+        {
+          "id": 8293637357910,
+          "title": "4th product Variant 2",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+          "price": 73449.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": false
+        },
+        {
+          "id": 8293637357926,
+          "title": "4th product Variant 3",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+          "price": 73449.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": false
+        },
+        {
+          "id": 8293637357942,
+          "title": "4th product Variant 4",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+          "price": 8849.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+          "onSale": false
+        },
+        {
+          "id": 8293637357958,
+          "title": "4th product Variant 5",
+          "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+          "price": 73449.95,
+          "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": false
+        }
+      ]
+    },
+    {
+      "id": 8293637259574,
+      "title": "The Hidden Snowboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+      "price": 19.99,
+      "url": "https://rohit720.myshopify.com/products/the-hidden-snowboard",
+      "onSale": false,
+      "variant_type": "Types 2",
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": 45069014237494
+        }
+      ]
+    },
+    {
+        "id": 8293637423414,
+        "title": "The Collection Snowboard: Solid",
+        "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+        "price": 749.95,
+        "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+        "onSale": false,
+        "variant_type": "Types 4",
+        "totalVariants": 2,
+        "variants": [
+            {
+            "id": 8293637423430,
+            "title": "5th product Variant 1",
+            "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+            "price": 8849.95,
+            "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+            "onSale": false
+            },
+            {
+            "id": 8293637423446,
+            "title": "5th product Variant 2",
+            "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+            "price": 73449.95,
+            "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+            "onSale": false
+            }
+        ]
+    }
+  ]
+}
