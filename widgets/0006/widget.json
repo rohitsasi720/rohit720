@@ -36,8 +36,8 @@
           "tag": "name",
           "status": "active",
           "styles": {
-            "color": "pink",
-            "font-size": "24px"
+            "color": "black",
+            "font-size": "12px"
           }
         },
         "price": {
