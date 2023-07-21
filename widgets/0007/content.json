@@ -1,0 +1,26 @@
+{
+  "en": {
+    "widget": {
+      "elements": {
+        "title": "Best seller",
+        "buttons": {
+          "elements": {
+            "cart": "Add to cart"
+          }
+        }
+      }
+    }
+  },
+  "es": {
+    "widget": {
+      "elements": {
+        "title": "Mejor vendido",
+        "buttons": {
+          "elements": {
+            "cart": "Añadir a la cesta"
+          }
+        }
+      }
+    }
+  }
+}
